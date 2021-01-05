@@ -30,6 +30,7 @@ Leaf é um serviço de streaming similar a Netflix desenvolvido para um trabalho
 
 ### Visualizando o Projeto
 1. Depois de executar todos esses comandos, basta acessar o
-http://localhost:3000/
-
+   ```
+   http://localhost:3000/
+   ```
 5. Ao acessar você será direcinado para a página principal.
