@@ -3,12 +3,13 @@
 
 Leaf é um serviço de streaming similar a Netflix desenvolvido para um trabalho de Engenharia de Software. 
 
-Para assistir um curto vídeo de apresentação do projeto no Youtube [clique aqui.](https://youtu.be/V8Dy22f9jS4)
+Para assistir um curto vídeo de apresentação do projeto no Youtube <a href="https://youtu.be/V8Dy22f9jS4" target="_blank">clique aqui.</a>
+
 
 # Rodando o Projeto
 
 1. Abrir a pasta do projeto no Visual Studio.
-2. Instalar o [MongoDB](https://www.mongodb.com/try/download/community) na máquina.
+2. Instalar o <a href="https://www.mongodb.com/try/download/community" target="_blank">MongoDB</a> na máquina.
 
 ### Instalando 
 
