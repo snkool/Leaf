@@ -15,7 +15,7 @@ Leaf é um serviço de streaming similar a Netflix desenvolvido para um trabalho
       
 2. Selecionar o caminho do banco de dados (Caminho da instalação do mongoDB --dbpath caminho da pasta data/db do projeto)
     ```sh 
-    C:\'Program Files'\MongoDB\Server\4.2\bin\mongod.exe –dbpath "C:\Users\Lucas\Desktop\Leaf\Leaf_c\data\db
+    'C:\'Program Files'\MongoDB\Server\4.2\bin\mongod.exe –dbpath "C:\Users\Lucas\Desktop\Leaf\Leaf_c\data\db'
     ```
 
 3. Realizar as preparações necessárias para executar o projeto.
