@@ -1,5 +1,5 @@
 
-<p align="center"> <img width="150" src="images-readme/logo.png"/> </p>
+<p align="center"> <img width="150" src="images-readme/logo-dark.png"/> </p>
 
 Leaf é um serviço de streaming similar a Netflix desenvolvido para um trabalho de Engenharia de Software. 
 
